@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Series</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            background-image: url(https://occ-0-3011-114.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABToEbFz63B1sIZtMxAGbtyS-rj5xY8y9J2R2nSRJRsAiExdJzHHLQoU4ns-OEpdgItUpfHZ-T9jUz2vFXnjO5tx_Y-_N.jpg?r=b5c);
+            color: #ffffff;
+            margin:-8px;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 10px auto;
+            padding: 20px;
+            background-color:transparent;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #ffffff;
+        }
+        a {
+            color: white;
+        }
+        .movie {
+            margin-bottom: 30px;
+        }
+        .movie h2 {
+            color: #ffffff;
+            font-size: 24px;
+            margin-bottom: 5px;
+        }
+        .movie p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h3 style="text-align: center;">Serie: Bloodride 1 Temporada Sub/Esp</h3>
+    
+        <div class="movie">
+            <h2>Bloodride | Viaje Sangriento </h2>
+            <p><strong>Número de Episodios:</strong> 6</p>
+            <a href="https://www.rottentomatoes.com/tv/bloodride" target=”_blank”>Rotten Tomatoes</a>
+            <p><strong>Género:</strong> Terror | Sobrenatural | 
+            Serie de Antología </p>
+            <p><strong>Año:</strong> 2020</p>
+            <p style="text-align: justify;"><strong>Sinopsis:</strong> En esta serie antológica, 
+                los pasajeros a bordo de un autobús espectral 
+                se dirigen a un horrible destino desconocido.</p>
+                <a href="https://cuty.io/RNlYguZYkfv" target=”_blank”>Episodio 1 -</a>
+                <a href="https://cuty.io/d7gypU" target=”_blank”>Episodio 2 -</a>
+                <a href="https://cuty.io/jWN6ZqQMcP0" target=”_blank”>Episodio 3 -</a>
+                <a href="https://cuty.io/3LaubXT" target=”_blank”>Episodio 4 -</a>
+                <a href="https://cuty.io/82sfEqtL" target=”_blank”>Episodio 5 -</a>
+                <a href="https://cuty.io/FruX" target=”_blank”>Episodio 6</a>
+        </div>
+
+        <div class="movie">
+            <h2><strong>Trailer</strong></h2>
+            <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Kc4dbxQ-mEM?si=-NQrVGlLQhQi1HIo" 
+                title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+                encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+            
+        </div>
+    </div>
+</body>
+</html>
